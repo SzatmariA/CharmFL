@@ -1,5 +1,9 @@
 # CharmFL
 
+## A quick overview of the tool
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBVuNRgkHVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Steps to set up 
 
  First, download the compressed ZIP. 
