@@ -6,7 +6,7 @@
 
 ## Steps to set up 
 
- First, download the compressed ZIP. 
+ First, download the compressed ZIP (executable binary) from [this link]()
  
  Then: 
 - Drag and drop into your PyCharm IDE
