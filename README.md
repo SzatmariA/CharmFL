@@ -1,4 +1,6 @@
-# Steps to set up 
+# CharmFL
+
+## Steps to set up 
 
  First, download the compressed ZIP. 
  
@@ -10,7 +12,7 @@
    - Search for the ZIP
    - Click OK
 
-# How to use
+## How to use
 
 First, make sure your virtual environment is properly set up, and installed all the required packages.
 Whenever that happens, you can click on the Run button below the CharmFL menu
@@ -21,7 +23,7 @@ Wait for the process to finish, then check the list of suspicious elements, and 
 
 
 
-# Main features
+## Main features
 - Run the Fault Localization
 - Clear the results from the memory
 - View the list of suspicious elements
