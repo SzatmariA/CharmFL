@@ -16,6 +16,11 @@
    - Search for the ZIP
    - Click OK
 
+## Main features
+- Run the Fault Localization
+- Clear the results from the memory
+- View the list of suspicious elements
+
 ## How to use
 
 First, make sure your virtual environment is properly set up, and installed all the required packages.
@@ -27,7 +32,3 @@ Wait for the process to finish, then check the list of suspicious elements, and 
 
 
 
-## Main features
-- Run the Fault Localization
-- Clear the results from the memory
-- View the list of suspicious elements
