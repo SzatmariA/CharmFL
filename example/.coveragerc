@@ -1,0 +1,9 @@
+[run]
+dynamic_context = test_function
+
+[report]
+omit=
+  */site-packages/*
+  */usr/local/lib*
+  */usr/lib*
+  *test*
